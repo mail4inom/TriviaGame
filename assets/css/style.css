@@ -1,0 +1,90 @@
+body{
+    background-color: #eeeeee;
+    font-family: sans-serif;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+#start{
+    width: 400px;
+    height: 100px;
+    font-size: 40px;
+    border-radius: 50px;
+    margin: 270px 0px 0px 330px;
+    color: #57636e;
+}
+#start:hover{
+    cursor: pointer;
+    background-color: #57636e;
+    color: #fff;
+}
+#start:focus{
+    outline: 0;
+}
+#time{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+    font-size: 30px;
+    color: #57636e;
+}
+span{
+    font-size: 20px;
+    margin-left: 70px;
+    color: #57636e;
+}
+input{
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+
+  border: 2px solid #999;
+  transition: 0.2s all linear;
+  outline: none;
+  margin-right: 5px;
+
+  position: relative;
+  top: 4px;
+}
+.grid{
+    width: 1060px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 10px 50px 50px 50px;
+    border-radius: 50px;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #cbcbcb;
+}
+.grid h1{
+    background-color: #57636e;
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+    padding: 2px 0px;
+    border-radius: 50px;
+}
+p{
+    text-align: center;
+    font-size: 36px;
+    color: #57636e;
+
+}
+#submit{
+    width: 400px;
+    height: 100px;
+    font-size: 40px;
+    border-radius: 50px;
+    margin: 60px 0px 0px 330px; 
+    color: #57636e;
+}
+#submit:hover{
+    cursor: pointer;
+    background-color: #57636e;
+    color: #fff;
+}
+#submit:focus{
+    outline: 0;
+}

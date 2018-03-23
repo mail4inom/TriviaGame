@@ -88,3 +88,50 @@ p{
 #submit:focus{
     outline: 0;
 }
+/* @media screen and (max-width:980px){
+    body{
+        font-size: 16px;
+        width: 100%;
+    }
+    .grid{
+        width: 100%;
+    }
+    
+  }
+  @media screen and (max-width:768px){
+    body{
+        font-size: 16px;
+        width: 100%;
+    }
+    .grid{
+        width: 100%;
+      }
+  }
+  @media screen and (max-width:640px){
+    body{
+        font-size: 16px;
+        width: 100%;
+    }
+    .grid{
+        width: 100%;
+      }
+  }
+  @media screen and (max-width:414px){
+    body{
+        font-size: 16px;
+        width: 100%;
+    }
+    .grid{
+        width: 100%;
+      }
+  }
+  
+  @media screen and (max-width:360px){
+    body{
+        font-size: 16px;
+        width: 100%;
+    }
+    .grid{
+        width: 100%;
+      }
+  } */
